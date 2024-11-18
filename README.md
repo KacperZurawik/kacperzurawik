@@ -1,5 +1,7 @@
 ## Hello, Kacper here 👋
 
+- I am an IT enthusiast currently working as a Junior IT Specialist and studying Computer Science at Paweł Włodkowic University. Right now, I am dedicated to learning and improving my skills, with the goal of building a career as a software developer specializing in programming field.
+
 <!--
 **KacperZurawik/kacperzurawik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

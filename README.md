@@ -2,6 +2,9 @@
 
 I am an IT enthusiast currently working as a Junior IT Specialist and studying Computer Science at Paweł Włodkowic University. Right now, I am dedicated to learning and improving my skills, with the goal of building a career as a software developer specializing in programming field.
 
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KacperZurawik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 

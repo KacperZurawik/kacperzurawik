@@ -4,7 +4,6 @@ I am an IT enthusiast currently working as a Junior IT Specialist and studying C
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KacperZurawik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KacperZurawik&theme=radical&hide_border=false)<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kacper-zurawik/) 

@@ -1,6 +1,6 @@
 ## Hello, Kacper here 👋
 
-I am an IT enthusiast currently working as a Junior IT Specialist and studying Computer Science at Paweł Włodkowic University. I have IT support background and now I am aspiring to become a Junior .NET Developer and I am dedicated to learning and improving my programmin skills, with the goal of building a career in software development.
+I am an IT enthusiast currently working as a Junior IT Specialist and studying Computer Science at Paweł Włodkowic University. I have the IT support background and now I am aspiring to become a Junior .NET Developer and I am dedicated to learning and improving my programmin skills, with the goal of building a career in software development.
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)

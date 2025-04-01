@@ -7,7 +7,6 @@ I am an IT enthusiast currently working as a Junior IT Specialist and studying C
 
 # 📊 GitHub Stats:
 ![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![kacperzurawik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperzurawik&theme=gotham&hide_border=false)
 ![kacperzurawik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌐 Socials:

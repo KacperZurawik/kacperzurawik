@@ -6,13 +6,12 @@ I am an IT enthusiast currently working as a Junior IT Specialist and studying C
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 # 📊 GitHub Stats:
-![]![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
-![]![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br/>
+![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![kacperzurawik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperzurawik&theme=gotham&hide_border=false)
+![kacperzurawik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kacper-zurawik/) 
-![kacperzurawik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--

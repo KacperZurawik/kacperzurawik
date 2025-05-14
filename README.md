@@ -4,6 +4,7 @@ I am an IT enthusiast currently working as a Junior IT Specialist. I graduated w
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)

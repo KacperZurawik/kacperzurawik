@@ -1,12 +1,7 @@
 <div id="header" align="center">
-
-   <img src="./assets/github.gif" width="100"/>
-
    <h1>
-   Hey there, I'm Kacper!
-   <img src="./assets/giphy.gif" width="30px" alt="GIF">
+   Hey there, I'm Kacper! 👋
    </h1>
-
 </div>
 
 I am an IT enthusiast currently working as a Junior IT Specialist. I graduated with bachelor of engineering in Computer Science from Paweł Włodkowic University. With a background in IT support, I am now aspiring to become a **Junior .NET Developer**. I am committed to continuously improving my programming skills, with the goal of building a **SOLID** career in software development.

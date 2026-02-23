@@ -1,34 +1,41 @@
-<div id="header" align="center">
-   <h1>
-   Hey there, I'm Kacper! 👋
-   </h1>
-</div>
+# Hi there, I'm Kacper Żurawik 👋
 
-I am an IT enthusiast currently working as a Junior IT Specialist. I graduated with bachelor of engineering in Computer Science from Paweł Włodkowic University. With a background in IT support, I am now aspiring to become a **Junior .NET Developer**. I am committed to continuously improving my programming skills, with the goal of building a **SOLID** career in software development.
+I am an IT Specialist with over 3 years of experience in IT support, system administration, and infrastructure. I hold a Bachelor of Engineering degree in Computer Science from Paweł Włodkowic University.
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+Currently, I am focused on transitioning into a **.NET Developer** role. I build backend applications using **C#, ASP.NET Core, Entity Framework, and SQL**, and continuously improve my skills in software architecture, debugging, and real-world application development.
 
-## 📊 GitHub Stats:
-![kacperzurawik's Stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![kacperzurawik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperzurawik&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+My goal is to become a professional backend developer and build reliable, scalable, and maintainable systems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kacper-zurawik/) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Profile Views](https://komarev.com/ghpvc/?username=mateuszsiwy&color=blue)
-<!--
-**KacperZurawik/kacperzurawik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+
+## Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperZurawik&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperZurawik&theme=gotham&layout=compact&hide_border=false)
+
+---
+
+# 📫 Contact
+
+📧 Email: kacperzurawik99@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/kacper-zurawik/  
+💻 GitHub: https://github.com/KacperZurawik
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=KacperZurawik&color=blue)

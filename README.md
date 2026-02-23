@@ -14,7 +14,7 @@ My goal is to become a professional backend developer and build reliable, scalab
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 
-## Tools
+# Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -23,7 +23,9 @@ My goal is to become a professional backend developer and build reliable, scalab
 ---
 
 # 📊 GitHub Stats
+![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperZurawik&show_icons=true&theme=gotham&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperZurawik&layout=compact&theme=gotham)
 
 # 📫 Contact
 

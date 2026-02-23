@@ -26,11 +26,9 @@ My goal is to become a professional backend developer and build reliable, scalab
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperzurawik&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperZurawik&show_icons=true&theme=default)
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kacperzurawik&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperzurawik&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperZurawik&layout=compact&theme=default)
 
 # 📫 Contact
 
